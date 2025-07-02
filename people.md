@@ -146,7 +146,15 @@ permalink: /people/
   </div>
   <!------->
 
-
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Krutika Ambani</h3>
+    <h4>Research Assistant </h4>
+      <h5>Goel Lab </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+  </div>
 
 </div>
 
@@ -192,15 +200,6 @@ permalink: /people/
   </div>
 
 
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Hiep Dang</h3>
-    <h4>PhD Student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> hiep.dang [at] petermac.org</p>
-  </div>
-
   
  <!------->
   <div class="col-6_sm-12">
@@ -244,29 +243,9 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
 </div>
 
-<div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Caitlin Page</h3>
-    <h4>PhD Student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
-  </div>
-  
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/MichelleMeier.JPG"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Michelle Meier</h3>
-    <h4>PhD Student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> michelle.meier [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/michellemeier27">michellemeier27</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0005-5595-3882" target="orcid.widget" rel="noopener noreferrer">0009-0005-5595-3882</a></p>
-  </div>
+
 
 </div>
-
-
 
 ## Students - Peter Mac Labs
 
